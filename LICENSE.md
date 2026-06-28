@@ -1,4 +1,4 @@
-# 
+# VIP Revo Uninstaller 插件 Mac OS版 | 极速 Revo Uninstaller 插件 PC Windows版。集成 文件解压 和 系统诊断，跨平台性能最大化。
 
 
 
